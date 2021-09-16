@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "SansAccent",
+    "description": "Remplace les accents.",
+    "author": "Manu.n",
+    "params": [
+      {
+        "name": "strin",
+        "displayName": "String",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
